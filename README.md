@@ -6,5 +6,5 @@
  - 開發環境:Xcode  
 ---
  - 示意圖:  
-![image](https://github.com/LN0330/iOS-Objective-c-PingPong_Game/blob/master/GIF/1(1).gif)
-![image](https://github.com/LN0330/iOS-Objective-c-PingPong_Game/blob/master/GIF/1%20(2).png)  
+![image](https://github.com/LN0330/iOS-Objective-c-PingPong_Game/blob/main/GIF/1.gif)
+![image](https://github.com/LN0330/iOS-Objective-c-PingPong_Game/blob/main/GIF/2.png)  
